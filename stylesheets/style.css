@@ -1,0 +1,65 @@
+#head h1{
+  color:white;
+  font-family:'Great Vibes',cursive ;
+  height:5%;
+  font-size:60px;
+  text-align:center;
+
+}
+
+#subtitle h4{
+  color:#76b85d ;
+  font-family: 'Pacifico', cursive;
+  height:10%;
+  right:50%;
+  font-size:20px;
+  height:-50px;
+}
+
+#nav img{
+  width: 3%;
+  position: absolute;
+  left:30px;
+}
+
+#body {
+		background-image: url('../images/bc3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#body1 {
+		background-image: url('../images/bc3.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#body1 p{
+color:white;
+font-family: 'Merienda', cursive;
+font-size: 2rem;
+text-align: justify;
+}
+#nav ul li a{
+  top: -50px;
+  font-size: 2rem;
+  font-family: 'Shrikhand',cursive;
+  color:#0d98ba;
+}
+
+#subtitle #images img{
+  height:30%;
+  width:30%;
+  border:4px solid whitesmoke;
+}
+#nav ul li a:hover{
+  background-color: black;
+  color:skyblue;
+  font-size: 2.2rem;
+}
+#footer{
+  background-color: #262626;
+  color:#dcdcdc;
+}
+#footer h3{
+  text-align: left;
+  font-size: 1.5rem;
+}
